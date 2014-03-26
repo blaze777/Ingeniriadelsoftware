@@ -11,6 +11,8 @@ import javax.swing.JLabel;
 import javax.swing.JTextField;
 
 public class InterfazPrimaria extends JFrame implements ActionListener {
+ //Comentario hecho al programa. 
+    
 Container c= new Container();//este objeto es para cambiar cosas como el color del jframe
 private JLabel j1,j2;
 private JButton Calcular;
